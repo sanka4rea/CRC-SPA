@@ -4,4 +4,8 @@ R codes and vignette for reproducing our analysis result as described in the pap
 
 Online R shiny platform which contains the representative examples of tissue classification results of TCGA-CRC cohort could be found at http://144.214.26.35:3837/CRC-SPA/
 
+**The overall workflow of CRC-SPA:**
 <img src="/figure/workflow.png">
+
+**Representative examples of tissue classification results on online R shiny platform:**
+<img src="/figure/examples.png">
